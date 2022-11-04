@@ -35,3 +35,9 @@ Key I – Both robot arms need to stop in the position they are currently in.
 Key II – Both robotic arms are required to continue the path they were previously on (to continue performing the task they started).
 
 Button III - The "main" robot arm needs to move at 10% of the set speed. A second press of the button requires the robot to continue moving at 100% of the set speed.
+
+---
+
+You can watch video models of the elevator at the following link:
+
+https://www.youtube.com/watch?v=k-3DfrVNq5s&ab_channel=MarkoTopalovi%C4%87
