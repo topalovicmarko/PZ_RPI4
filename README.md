@@ -26,3 +26,12 @@ Once the verification process is complete, a function for a randomly generated n
 
 ### The fifth stage of the process:
 When the specified number of products has been placed on the output storage, the technician is asked on the FlexPendant via the TPReadFK procedure whether the process is complete. In case the process is not completed, the program starts from the beginning. If the process is completed, the program ends.
+
+---
+
+### SWITCH AND BUTTONS:
+Key I – Both robot arms need to stop in the position they are currently in.
+
+Key II – Both robotic arms are required to continue the path they were previously on (to continue performing the task they started).
+
+Button III - The "main" robot arm needs to move at 10% of the set speed. A second press of the button requires the robot to continue moving at 100% of the set speed.
