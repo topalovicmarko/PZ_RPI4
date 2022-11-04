@@ -5,4 +5,4 @@ robots (two IRB140) with tools to perform the task, a work table with a heating 
 as an output storage for the finished product and a storage for scrap. A sketch of the station is shown in the picture.
 
 ## A sketch of the station
-<img src="./assets/1.jpg" alt="drawing" width="400"/>
+<img src="./assets/1.png" alt="drawing" width="400"/>
