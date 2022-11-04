@@ -38,6 +38,6 @@ Button III - The "main" robot arm needs to move at 10% of the set speed. A secon
 
 ---
 
-You can watch video models of the elevator at the following link:
+You can watch video simulation following link:
 
 https://www.youtube.com/watch?v=k-3DfrVNq5s&ab_channel=MarkoTopalovi%C4%87
